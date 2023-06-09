@@ -6,3 +6,8 @@
 
 需要使用的第三方客户端支持配置 API HOST，按照客户端的说明，把 `https://openai.saplf.top`，`https://openai.shenchris.cn/`填入即可。
 eg. ios: openCat app - 设置 - 自定义域名 - 填写（不带http://前缀）
+
+### openai-proxy 
+
+自建的 openai 接口代理服务: `https://shenchris.deno.dev/v1`
+eg. utools MossGPT API URL
